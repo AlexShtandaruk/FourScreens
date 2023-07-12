@@ -10,7 +10,6 @@
 		A19E902F2A5DB8BA00FE5273 /* FourScreeensApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19E902E2A5DB8BA00FE5273 /* FourScreeensApp.swift */; };
 		A19E90312A5DB8BA00FE5273 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19E90302A5DB8BA00FE5273 /* ContentView.swift */; };
 		A19E90362A5DB8BC00FE5273 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A19E90352A5DB8BC00FE5273 /* Preview Assets.xcassets */; };
-		A19E903E2A5DB91900FE5273 /* NavigationStack in Frameworks */ = {isa = PBXBuildFile; productRef = A19E903D2A5DB91900FE5273 /* NavigationStack */; };
 		A19E90412A5DB94500FE5273 /* Injected.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19E90402A5DB94400FE5273 /* Injected.swift */; };
 		A19E90432A5DB96400FE5273 /* ServiceLocator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19E90422A5DB96400FE5273 /* ServiceLocator.swift */; };
 		A19E90452A5DB97400FE5273 /* Configurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19E90442A5DB97400FE5273 /* Configurator.swift */; };
@@ -71,7 +70,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A19E903E2A5DB91900FE5273 /* NavigationStack in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,7 +238,6 @@
 			);
 			name = FourScreeens;
 			packageProductDependencies = (
-				A19E903D2A5DB91900FE5273 /* NavigationStack */,
 			);
 			productName = FourScreeens;
 			productReference = A19E902B2A5DB8BA00FE5273 /* FourScreeens.app */;
@@ -272,7 +269,6 @@
 			);
 			mainGroup = A19E90222A5DB8BA00FE5273;
 			packageReferences = (
-				A19E903C2A5DB91900FE5273 /* XCRemoteSwiftPackageReference "NavStackSwiftUI" */,
 			);
 			productRefGroup = A19E902C2A5DB8BA00FE5273 /* Products */;
 			projectDirPath = "";
@@ -535,25 +531,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		A19E903C2A5DB91900FE5273 /* XCRemoteSwiftPackageReference "NavStackSwiftUI" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/AlexShtandaruk/NavStackSwiftUI";
-			requirement = {
-				branch = main;
-				kind = branch;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		A19E903D2A5DB91900FE5273 /* NavigationStack */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = A19E903C2A5DB91900FE5273 /* XCRemoteSwiftPackageReference "NavStackSwiftUI" */;
-			productName = NavigationStack;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A19E90232A5DB8BA00FE5273 /* Project object */;
 }
