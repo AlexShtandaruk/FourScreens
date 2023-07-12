@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "502DAB7E-09CB-418C-AFC3-FE320ED67108"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "882C6FE4-F966-4A6A-BC8B-0B5E6AC35ED8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourScreeens/TabBar/HomeScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "882C6FE4-F966-4A6A-BC8B-0B5E6AC35ED8 - ec45773818e6f468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.multilineTextAlignment(SwiftUI.TextAlignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0)&gt; in FourScreeens.HomeScreen.body.getter : some"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/TabBar/HomeScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1824">
+               </Location>
+               <Location
+                  uuid = "882C6FE4-F966-4A6A-BC8B-0B5E6AC35ED8 - 9c1382546e8e8201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.multilineTextAlignment(SwiftUI.TextAlignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0)&gt; in FourScreeens.HomeScreen.body.getter : some"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/TabBar/HomeScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "882C6FE4-F966-4A6A-BC8B-0B5E6AC35ED8 - f0418eef96bc282e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.multilineTextAlignment(SwiftUI.TextAlignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0)&gt; in FourScreeens.HomeScreen.body.getter : some"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/TabBar/HomeScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B00A6A44-FB20-47EE-B3A2-9052E4F2C6EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourScreeens/TabBar/FactScreen/FactViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B00A6A44-FB20-47EE-B3A2-9052E4F2C6EC - 86351cff10c6efcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FourScreeens.FactViewModel.init() -&gt; FourScreeens.FactViewModel"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/TabBar/FactScreen/FactViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "B00A6A44-FB20-47EE-B3A2-9052E4F2C6EC - 86351cff10c6efcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FourScreeens.FactViewModel.init() -&gt; FourScreeens.FactViewModel"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/TabBar/FactScreen/FactViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABDD8C95-1049-4963-AB7F-5C52137512B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourScreeens/Service/Fetching.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchFacts(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABDD8C95-1049-4963-AB7F-5C52137512B7 - c08d62efb010e8d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FourScreeens.BackendOperationResult&lt;Swift.Optional&lt;Swift.Array&lt;FourScreeens.Fact&gt;&gt;, FourScreeens.BackendError&gt;) -&gt; () in FourScreeens.Fetching.fetchFacts(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/Service/Fetching.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "ABDD8C95-1049-4963-AB7F-5C52137512B7 - c08d62efb010eb11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FourScreeens.BackendOperationResult&lt;Swift.Optional&lt;Swift.Array&lt;FourScreeens.Fact&gt;&gt;, FourScreeens.BackendError&gt;) -&gt; () in FourScreeens.Fetching.fetchFacts(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FourScreeens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/FourScreeens/FourScreeens/Service/Fetching.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "786BD1C3-E9BB-41D1-AA27-54EF95ACF898"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourScreeens/TabBar/FactScreen/FactScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

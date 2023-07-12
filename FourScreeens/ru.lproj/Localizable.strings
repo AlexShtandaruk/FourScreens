@@ -1,0 +1,34 @@
+//MARK: - tab
+
+"tab.storage" = "Хранилище";
+"tab.fact" = "Факт";
+"tab.web" = "Веб";
+
+//MARK: - homeScreen
+
+"homeScreen.textFieldPlaceholder" = "Введите что угодно";
+"homeScreen.addButton" = "Добавить в хранилище";
+"homeScreen.removeButton" = "Очистить хранилище";
+"homeScreen.alertTitle" = "Уведомление";
+"homeScreen.alertMessage" = "Введите что-нибудь";
+
+//MARK: - factScreen
+
+"factScreen.titlePartOne" = "Несколько фактов";
+"factScreen.titlePartTwo" = " на сегодня";
+"factScreen.alertTitle" = "Уведомление";
+
+//MARK: - movingScreen
+
+"movingScreen.button" = "Провалиться в веб-вью";
+
+// MARK: - networkService
+
+"networkService.guardData" = "Твоя дата = nil.";
+"networkService.catchData" = "В catch поймали ошибку.";
+"networkService.response" = "Ошибка с запросом на сервер.";
+"networkService.information" = "Получение какой-либо информации с сервера.";
+"networkService.clientError" = "Клиентская ошибка.";
+"networkService.recursive" = "Рекурсивная ошибка.";
+"networkService.authError" = "Ошибка авторизации.";
+"networkService.serverError" = "Проблемы с сервером.";
