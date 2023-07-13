@@ -7,18 +7,17 @@ import Foundation
     @Published var filter: String = ""
     @Published var error: BackendError?
     
-    @Injected var fetch: Fetching?
+    @Injected var fetch: Fetching!
 
     init() {
         
-        fetch?.fetchFacts(completion: { [weak self] in
+        fetch.fetchFacts(completion: { [weak self] in
             
             guard let self = self else { return }
-            guard self.fetch != nil else { return }
             
-            self.hasError = self.fetch!.isErrorFacts
-            self.error = self.fetch!.errorFact
-            self.data = self.fetch!.facts
+            self.hasError = self.fetch.isErrorFacts
+            self.error = self.fetch.errorFact
+            self.data = self.fetch.facts
         })
     }
 }

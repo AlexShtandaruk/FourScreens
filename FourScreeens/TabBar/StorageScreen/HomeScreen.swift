@@ -70,6 +70,10 @@ struct HomeScreen: View {
                 )
             }
         }
+        
+        .onAppear {
+            viewModel.reloadStorage()
+        }
     }
 }
 

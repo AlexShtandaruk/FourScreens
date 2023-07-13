@@ -19,5 +19,9 @@ final class HomeViewModel: ObservableObject {
         textArray.removeAll()
         dataCarataker?.saveText(data: textArray)
     }
+    
+    func reloadStorage() {
+        textArray = dataCarataker?.loadText() ?? []
+    }
 }
  

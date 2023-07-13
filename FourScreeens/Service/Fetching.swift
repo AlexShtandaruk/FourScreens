@@ -8,13 +8,13 @@ final class Fetching {
     @Published var errorFact: BackendError?
     
     //property wrapped
-    @Injected var network: Networking?
-    @Injected var storage: DataCaretaker?
+    @Injected var network: Networking!
+    @Injected var storage: DataCaretaker!
     
     //method categories
     func fetchFacts(completion: @escaping () -> Void) {
         
-        network?.getFactData { [weak self] result in
+        network.getFactData { [weak self] result in
             
             guard let self = self else { return }
             
